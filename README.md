@@ -26,7 +26,7 @@
 ## 🚀 About Me
 
 Developer focado em entregar projetos funcionais, limpos e bem estruturados.  
-Trabalho com tecnologias modernas do ecossistema JavaScript/TypeScript e estou sempre evoluindo em algoritmos, arquitetura e boas práticas.Gosto de código direto e objetivo.
+Trabalho com tecnologias modernas do ecossistema JavaScript/TypeScript e estou sempre evoluindo em algoritmos, arquitetura e boas práticas.
 
 ---
 
@@ -89,7 +89,6 @@ Gerenciador completo de cardápios, com edição, listagem e controle.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight" />
 </p>
 
