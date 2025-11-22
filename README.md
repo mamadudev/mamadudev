@@ -1,4 +1,4 @@
-<h1 align="center">🧑🏽‍💻 Mamadou Diagne</h1>
+<!--<h1 align="center">🧑🏽‍💻 Mamadou Diagne</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong><br/>
@@ -9,7 +9,28 @@
 
 <p align="center">
   Construindo soluções modernas com foco em eficiência, clareza e impacto real.
+</p>-->
+<h1 align="center">🧑🏽‍💻 <strong>Mamadou Diagne</strong></h1>
+
+<p align="center">
+  <strong style="font-size: 18px;">Full Stack Developer</strong><br/>
+  PT • EN • FR
 </p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0AB7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+Node+%7C+SQL+React;Clean+Architecture+%7C+SOLID;Building+Modern+Applications" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mamadudev&label=Visitas&color=0AB7FF&style=flat-square" />
+</p>
+
+<p align="center" style="font-size: 16px;">
+  Construindo soluções modernas com foco em <strong>eficiência</strong>, <strong>clareza</strong> e <strong>impacto real</strong>.
+</p>
+
 
 ---
 
