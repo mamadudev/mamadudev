@@ -1,15 +1,4 @@
-<!--<h1 align="center">🧑🏽‍💻 Mamadou Diagne</h1>
 
-<p align="center">
-  <strong>Full Stack Developer</strong><br/>
-  PT • EN • FR 
-</p>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00ADEF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+Node+%7C+React;Building+Modern+Applications;Clean+Code+%7C+Arquitetura+Sólida;Evolving+Every+Single+Day" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mamadudev&label=Visitas&color=0aa&style=flat-square" /> </p>
-
-<p align="center">
-  Construindo soluções modernas com foco em eficiência, clareza e impacto real.
-</p>-->
 <h1 align="center">🧑🏽‍💻 <strong>Mamadou Diagne</strong></h1>
 
 <p align="center">
@@ -19,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0AB7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+Node+%7C+SQL+React;Clean+Architecture+%7C+SOLID;Building+Modern+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0AB7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+Node+%7C+SQL+%7C+React;Clean+Architecture+%7C+SOLID;Building+Modern+Applications" 
   />
 </p>
 
@@ -44,20 +33,32 @@ Gosto de código direto e objetivo.
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-JavaScript • TypeScript • Python • SQL
 
-**Back-end:**  
-Node.js • Express • REST APIs
+### 🔤 Linguagens  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="45" />
+</p>
 
-**Front-end:**  
-HTML • CSS • React
+### ⚙️ Back-end  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,diango" height="45" />
+</p>
 
-**Databases:**  
-PostgreSQL • SQLite • MongoDB
+### 🎨 Front-end  
+<p>
+  <img src="https://skillicons.dev/icons?i=html5,css3,react" height="45" />
+</p>
 
-**Tools:**  
-Git • GitHub • VSCode • Node js
+### 🗄️ Bancos de Dados  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" height="45" />
+</p>
+
+### 🧰 Ferramentas  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+</p>
+
 
 ---
 
@@ -89,24 +90,40 @@ Gerenciador completo de cardápios, com edição, listagem e controle.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mamadoudiagne&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadoudiagne&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
 ## 🌍 Languages
 
-- Português  
-- Francês  
+- Português   
 - Inglês   
+- Francês 
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: [diagne264@gmail.com](mailto:diagne264@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/mamadou-diagne-27226235a](https://www.linkedin.com/in/mamadou-diagne-27226235a)
+<p align="center">
+  <a href="mailto:diagne264@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mamadou-diagne-27226235a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mamadudev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Entre em contato para colaborações, oportunidades ou projetos reais.</strong>
+</p>
 
 ---
 
