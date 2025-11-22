@@ -26,9 +26,8 @@
 ## 🚀 About Me
 
 Developer focado em entregar projetos funcionais, limpos e bem estruturados.  
-Trabalho com tecnologias modernas do ecossistema JavaScript/TypeScript e estou sempre evoluindo em algoritmos, arquitetura e boas práticas.
+Trabalho com tecnologias modernas do ecossistema JavaScript/TypeScript e estou sempre evoluindo em algoritmos, arquitetura e boas práticas.Gosto de código direto e objetivo.
 
-Gosto de código direto e objetivo.
 ---
 
 ## 🛠️ Tech Stack
@@ -46,7 +45,7 @@ Gosto de código direto e objetivo.
 
 ### 🎨 Front-end  
 <p>
-  <img src="https://skillicons.dev/icons?i=html5,css3,react" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="45" />
 </p>
 
 ### 🗄️ Bancos de Dados  
