@@ -72,8 +72,8 @@ Sistema CLI baseado em OOP, modularização e boas práticas.
 ### 💳 [Conta Bancária](https://github.com/mamadudev/conta_bancaria)
 Simulação bancária de operações reais com validações e histórico.
 
-### 🍽️ [Cardápio](https://github.com/mamadudev/cardapio)
-Gerenciador completo de cardápios, com edição, listagem e controle.
+### 🍽️ [E-Comercio](https://github.com/mamadudev/cardapio)
+Gerenciador completo de um e-comercio, com edição, listagem e controle.
 
 ---
 
