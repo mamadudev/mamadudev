@@ -103,14 +103,14 @@ Sistema CLI baseado em OOP, modularização e boas práticas de desenvolvimento.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&count_private=true&hide_border=true&title_color=0AB7FF&icon_color=0AB7FF&text_color=c9d1d9&bg_color=0d1117" alt="Mamadou Diagne github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&hide_border=true&title_color=0AB7FF&text_color=0AB7FF&bg_color=0d1117" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mamadudev&theme=dark&hide_border=true&fire=0AB7FF&ring=0AB7FF&currStreakLabel=0AB7FF" alt="GitHub Streak Stats"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mamadudev&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
