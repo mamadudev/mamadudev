@@ -100,19 +100,27 @@ Sistema CLI baseado em OOP, modularização e boas práticas de desenvolvimento.
 
 ---
 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Mamadou's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" />
-</p>
+### Stats & Streak
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mamadudev&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
+
+### Languages & Activity
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
+
+### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamadudev&theme=github-compact&bg_color=0d1117&hide_border=true&point=0AB7FF&line=0AB7FF&color=ffffff" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamadudev&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamadudev&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+  <img src="https://img.shields.io/github/followers/mamadudev?style=for-the-badge&color=0AB7FF&label=Followers" />
+  <img src="https://img.shields.io/badge/Repos_Públicos-20+-0AB7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-134+-0AB7FF?style=for-the-badge" />
 </p>
 
 ---
