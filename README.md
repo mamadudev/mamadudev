@@ -101,14 +101,10 @@ Sistema CLI baseado em OOP, modularização e boas práticas de desenvolvimento.
 ---
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 ### Stats & Streak
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&hide=stars,issues&cache_seconds=86400" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=mamadudev&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
 
 ### Languages & Activity
@@ -116,12 +112,6 @@ Sistema CLI baseado em OOP, modularização e boas práticas de desenvolvimento.
 
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamadudev&theme=github-compact&bg_color=0d1117&hide_border=true&point=0AB7FF&line=0AB7FF&color=ffffff" width="100%" />
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mamadudev?style=for-the-badge&color=0AB7FF&label=Followers" />
-  <img src="https://img.shields.io/badge/Repos_Públicos-20+-0AB7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-134+-0AB7FF?style=for-the-badge" />
-</p>
 
 ---
 
