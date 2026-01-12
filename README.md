@@ -102,15 +102,18 @@ Sistema CLI baseado em OOP, modularização e boas práticas de desenvolvimento.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamadudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Mamadou's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamadudev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamadudev&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mamadudev&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamadudev&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+</p>
 
 ---
 
